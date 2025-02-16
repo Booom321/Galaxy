@@ -1,0 +1,12 @@
+# Directories
+.vs/
+[Bb]inIntermediate/
+[Bb]inOutput/
+
+# Visual Studio Files
+*.sln
+*.vcxproj
+*.filters
+*.user
+
+# Files
