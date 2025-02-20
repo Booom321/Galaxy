@@ -1,6 +1,8 @@
 # Directories
 .idea/
 .vs/
+[Bb]inIntermediate/
+[Bb]inOutput/
 
 # Visual Studio Files
 *.sln
