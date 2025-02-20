@@ -1,0 +1,11 @@
+# Directories
+.idea/
+.vs/
+
+# Visual Studio Files
+*.sln
+*.vcxproj
+*.filters
+*.user
+
+# Files
